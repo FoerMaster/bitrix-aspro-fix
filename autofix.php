@@ -117,7 +117,8 @@ foreach ($replacementsBlock as $relativePath => $data) {
 // Известные MD5-хэши вредоносных файлов
 $maliciousHashes = [
     "07a3fe9875d3a8b7c57874c4cc509929",
-    "50b7604d856f36983b9bb3066f894f3f"
+    "50b7604d856f36983b9bb3066f894f3f",
+    "384277d2b199d6f2894d2502a8280039"
 ];
 
 /**
